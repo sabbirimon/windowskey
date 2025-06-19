@@ -5,6 +5,81 @@ Get Free Windows 10 Product Keys for all Versions
 
 ****// if you like it, give me a star and tell me which one worked, thanks //****
 
+
+<!-- README.md -->
+
+# \:key: Windows Product Keys List (For Educational & Testing Use Only)
+
+> **Disclaimer:** This information is provided **strictly for educational and testing purposes**. No commercial or production use is intended or permitted.
+
+> \:star2: If you found this helpful, please give a star and let us know which key worked!
+
+---
+
+## \:computer: Windows 10 Keys Table
+
+| Edition                             | Product Key                     |
+| ----------------------------------- | ------------------------------- |
+| Windows 10 Enterprise N             | `4CPRK-NM3K3-X6XXQ-RXX86-WXCHW` |
+| Windows 10 Enterprise               | `QFFDN-GRT3P-VKWWX-X7T3R-8B639` |
+| Windows 10 Professional N           | `VK7JG-NPHTM-C97JM-9MPGT-3V66T` |
+| Windows 10 Education                | `DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ` |
+| Windows 10 Enterprise 2018 LTSB     | `YTMG3-N6DKC-DKB77-7M9GH-8HVX7` |
+| Windows 10 Home                     | `2F77B-TNFGY-69QQF-B8YKP-D69TJ` |
+| Windows 10 Enterprise G             | `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4` |
+| Windows 10 Home Single Language     | `YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY` |
+| Windows 10 Professional             | `WNMTR-4C88C-JK8YV-HQ7T2-76DF9` |
+| Windows 10 Professional Workstation | `YVWGF-BXNMC-HTQYQ-CPQ99-66QFC` |
+| Windows 10 S                        | `GJTYN-HDMQY-FRR76-HVGC7-QPF8P` |
+| Windows 10 Home Country Specific    | `YYVX9-NTFWV-6MDM3-9PT4T-4M68B` |
+| Windows 10 Education N              | `XGVPP-NMH47-7TTHJ-W3FW7-8HV2C` |
+| Windows 10 Enterprise Evaluation    | `NPPR9-FWDCX-D2C8J-H872K-2YT43` |
+| Windows 10 Pro + Office 2016        | `MNXKQ-WY2CT-JWBJ2-T68TQ-YBH2V` |
+
+## \:cloud: Windows Server 2016 Keys
+
+| Edition    | Key                             |
+| ---------- | ------------------------------- |
+| Datacenter | `CB7KF-BWN84-R7R2Y-793K2-8XDDG` |
+| Standard   | `WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY` |
+| Essentials | `JCKRF-N37P4-C2D82-9YXRT-4M63B` |
+
+## \:rocket: Windows 11 (GVLKs)
+
+| Edition                         | Product Key                     |
+| ------------------------------- | ------------------------------- |
+| Windows 11 Pro                  | `W269N-WFGWX-YVC9B-4J6C9-T83GX` |
+| Windows 11 Pro N                | `MH37W-N47XK-V7XM9-C7227-GCQG9` |
+| Windows 11 Pro for Workstations | `NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J` |
+| Windows 11 Pro Education        | `6TP4R-GNPTD-KYYHQ-7B7DP-J447Y` |
+| Windows 11 Education            | `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2` |
+| Windows 11 Enterprise           | `NPPR9-FWDCX-D2C8J-H872K-2YT43` |
+| Windows 11 Enterprise G N       | `44RPN-FTY23-9VTTB-MP9BX-T84FV` |
+
+---
+
+### \:scroll: Software Licensing Disclaimer
+
+> This document and its contents are for **educational and testing purposes only**.
+>
+> Any commercial or production use of the keys listed herein is strictly **prohibited**.
+>
+> Use only genuine and legally purchased software in any real-world environment.
+>
+> Consult [Microsoft's official KMS Client Setup Keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys) for more info.
+
+---
+
+
+
+
+
+> \:bulb: Want to contribute? Create a PR or share more keys *for testing purposes only*.
+
+> \:warning: Always stay compliant and respect licensing policies.
+
+# Previous Windows keys (Check)
+
 Windows 10 Enterprise N	4CPRK-NM3K3-X6XXQ-RXX86-WXCHW
 
 Windows 10 Enterprise QFFDN-GRT3P-VKWWX-X7T3R-8B639
